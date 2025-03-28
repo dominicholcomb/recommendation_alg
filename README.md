@@ -2,4 +2,4 @@ I made a user/user collaborative filtering algorithm to recommend video games to
 
 I use numpy and sklearn to build the model.
 
-I added the jupyter notebook as a pdf for ease.
+I added the jupyter notebook as a pdf for readability!
